@@ -3,8 +3,17 @@
 
 # Background
 This is the upstream community to to Red Hat Healthcare's Intelligent DaaS. Please feel free to go to our discussion
-and/or issues areas. Any feedback is considered as we always look to improve our design pattern/reference architecture. 
+and/or issues areas in any of the specific repositories. Any feedback is considered as we always look to improve our design pattern/reference architecture. 
 Any communication to these areas or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
+
+# General Content Links
+Below are general content common links to help ensure we share key content from this project or the industry with everyone..
+
+| General Content|
+| -------------|
+| <a href="https://github.com/Project-Herophilus/Project-Herophilus/blob/main/NationalStds/FederalStandards/CMS-Interoperability%20and%20Data%20Access%20Final%20Rule.pdf" target="_blank">CMS Interoperability Final Rule</a>|
+| <a href="https://github.com/Project-Herophilus/Project-Herophilus/blob/main/NationalStds/FederalStandards/ONC_Cures_Act_Final_Rule_03092020.pdf" target="_blank">21st Centrury Cures Act</a>|
+| <a href="https://github.com/Project-Herophilus/Project-Herophilus/blob/main/NationalStds/FederalStandards/USCDI-Version-2-July-2021-Final.pdf" target="_blank">US CDI v2 Standard</a>|
 
 # Common Links
 Below are common links to help you navigate all the site content. 
@@ -26,7 +35,7 @@ More specific links around technologies used, setup and implementations:
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
-built atop industry leading software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
+built atop industry leading open source software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
 Data Integration is all about Data Innovation and all the things that can be done without data:
 
 ![iDaaS Art of the Possible](images/iDAASPlatform-iDaaSDataFlow-Detailed.png)
