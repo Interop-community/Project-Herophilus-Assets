@@ -14,19 +14,4 @@ Vendor|Image|
 |Red Hat|<img src="../../images/vendors/redhat_logo.png" alt="RedHat Logo" width="300">|   
 |Red Hat Services|<img src="../../images/vendors/redhat_services.png" alt="RedHat Services Logo" width="300">|   
 
-|Vendor|Image|
-|---|---|
-|Blue Prism|![BluePrism-Logo](../../images/vendors/blueprism.png)|   
-|IBM Global Business Services|![IBMGBS-Logo](../../images/vendors/ibm_gbs.png)|   
-|Mobia|![Mobia-Logo](../../images/vendors/mobia.png)|  
-|Parkar Consulting|![Parkar-Logo](../../images/vendors/parkarconsulting.png)|
-|Perficient |![Perficient-Logo](../../images/vendors/perficient.png)|
-|Prolifics|![Prolifics-Logo](../../images/vendors/prolifics.png)|   
-|Prospecta|![Prospecta-Logo](../../images/vendors/perspecta_logo.png)|   
-|TekSystems|![TeKSystems-Logo](../../images/vendors/teksystems-logo.jpg)|
-|Red Hat|![RedHat-Logo](../../images/vendors/redhat_logo.png)|   
-|Red Hat Services|![RedHatconsulting-Logo](../../images/vendors/redhat_services.png)|   
-
-
-
 <p>We will continue to maintain this page periodically as we are working with numerous healthcare payers and providers actively on iDaaS implementations and offerings.</p>
