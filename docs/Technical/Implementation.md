@@ -1,7 +1,7 @@
 ﻿# intelligent DaaS Partner Implementations
 iDaaS is enabling organizations to make data a product and build assets on top of it. Because <b>"Data is the asset!!!"</b> iDaaS is about enabling information for knowledge that can be used for action in a secure and scalable manner. Along with helping organizations it is also being used and adopted by numerous system integrators. Since doing our first release in May of 2020 we have so appreciated those customers and systems integrators that have implemented their solutions and solution offerings powered with iDaaS.
 
-Vendor|Image|
+|Vendor|Image|
 |---|---|
 |Blue Prism|<img src="../../images/vendors/blueprism.png" alt="Blue Prism Logo" width="300">|   
 |IBM Global Business Services|<img src="../../images/vendors/ibm_gbs.png" alt="IBM GBS Logo" width="500">|   
