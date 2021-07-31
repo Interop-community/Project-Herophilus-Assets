@@ -2,12 +2,12 @@
 ![iDaaS Word Art](images/iDAAS-Web-WordCloud.png)
 
 # Background
-This is the upstream community to to Red Hat Healthcare's Intelligent DaaS. Please feel free to go to our discussion
-and/or issues areas in any of the specific repositories. Any feedback is considered as we always look to improve our design pattern/reference architecture. 
+This is the upstream community to Red Hat Healthcare's Intelligent DaaS. Please feel free to go to our discussion
+and/or issues areas in any of the specific repositories. We consider all feedback as we are looking to improve our design pattern/reference architecture.
 Any communication to these areas or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
 
 # General Content Links
-Below are general content common links to help ensure we share key content from this project or the industry with everyone..
+Below are general content links to help ensure we share key content from the project or industry with everyone.
 
 | General Content|
 | -------------|
@@ -35,8 +35,8 @@ More specific links around technologies used, setup and implementations:
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
-built atop industry leading open source software. The sole purpose of ALL the capabilities we have enabled for healthcare is enable <b> Data as an Asset</b>. 
-Data Integration is all about Data Innovation and all the things that can be done without data:
+built atop industry-leading open-source software. The sole purpose of ALL the capabilities we have built for healthcare is to enable <b> Data as an Asset</b>. 
+Data Integration is all about Data Innovation and all the things you can achieve with access to the data:
 
 ![iDaaS Art of the Possible](images/iDAASPlatform-iDaaSDataFlow-Detailed.png)
 
@@ -44,21 +44,21 @@ Here is another way to think about data innovation with intelligent Daas.
 
 ![iDaaS Art of the Possible](images/iDAASPlatform-Visuals-iDAASDataTier-4Rs.png)
 With all this being said, <b>it was important for our code to be completely open and available with Apache 2 License!!</b>
-We are sure you have doubts and questions like:
+We are sure you have questions, concerns, or doubts; such as:
 
-* I already have an integration engine or enterprise application integration platform? You should not replace an existing 
-  integration engine or EAI platform, that would take time with lots of coordination. We would argue it is working for the 
+* Q: I already have an integration engine or enterprise application integration platform? 
+  A: You should not replace an existing integration engine or EAI platform, that would take time with lots of coordination. We would argue it is working for the 
   masses then you should keep it in place. Do you view that platform as strategic or innovative though? Probably not, but 
   it can provide access to existing information for business efforts though. Why not use it for what is good at and build 
   innovation atop it. You can also enable innovation at an enterprise, organization or team level with this model without 
   sacrificing security.
-* I have heard all of this before and I am still not seeing any industry progress? The industry is evolving and changing. 
+* Q: I have heard all of this before and I am still not seeing any industry progress? A: The industry is evolving and changing. 
   Digital in healthcare, along with several other factors, is causing the entire way healthcare data to not only be 
   re-imagined but re-evaluated. This is forcing various changes including
   new and more modern integration standards.
-* Why would you do this? Its time to help lead and drive change.
+* Q: Why would you do this? A: Its time to help lead and drive the change that will benefit everyone in healthcare, especially the patients.
+* Q: Has anyone run the risk and put their code and all their work out there for the masses to leverage in this manner? A: Not until now, open-source is core to our culture amd is all about the community and open-source mindset. Because of this we decided to follow those practices for everything for this effort. We also have and will continue to publish onto GitHub through our organization.
 
-Has anyone run the risk and put their code and all their work out there for the masses to leverage in this manner? The upstream open source projects our core to our culture is all about open source and an open-source mindset. Because of this we decided to follow those practices for everything for this effort. We also have and will continue to publish onto Git Hub through our organization.
 # Partnering to Delivery Industry Enablement
 Partnering is at the core of our capabilities we are enabling for the healthcare industries.
 
