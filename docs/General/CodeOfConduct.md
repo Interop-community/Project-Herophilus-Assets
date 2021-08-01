@@ -19,7 +19,7 @@ Examples of unacceptable behavior include: <br/>
 * The use of sexualized language or imagery, and sexual attention or advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others� private information, such as a physical or email address, without their explicit permission
+* Publishing others private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement Responsibilities
@@ -46,4 +46,4 @@ Community Impact: Demonstrating a pattern of violation of community standards, i
 Consequence: A permanent ban from any sort of public interaction within the community.
    
 ## Attribution
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at <a href="https://www.contributor-covenant.org/version/2/0/code_of_conduct.html" target="_blank">https://www.contributor-covenant.org/version/2/0/code_of_conduct.html</a>.Community Impact Guidelines were inspired by Mozilla�s code of conduct enforcement ladder. For answers to common questions about this code of conduct, see the FAQ at <a href="https://www.contributor-covenant.org/faq" target="_blank"> https://www.contributor-covenant.org/faq</a>. Translations are available at <a href="https://www.contributor-covenant.org/translations" target="_blank">https://www.contributor-covenant.org/translations</a>
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at <a href="https://www.contributor-covenant.org/version/2/0/code_of_conduct.html" target="_blank">https://www.contributor-covenant.org/version/2/0/code_of_conduct.html</a>.Community Impact Guidelines were inspired by Mozilla's code of conduct enforcement ladder. For answers to common questions about this code of conduct, see the FAQ at <a href="https://www.contributor-covenant.org/faq" target="_blank"> https://www.contributor-covenant.org/faq</a>. Translations are available at <a href="https://www.contributor-covenant.org/translations" target="_blank">https://www.contributor-covenant.org/translations</a>
