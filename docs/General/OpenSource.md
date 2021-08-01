@@ -10,4 +10,4 @@ Our culture is all about open source and open source mindset because of this we 
 practices for everything for this effort. All the assets are published onto Git Hub through our
 <a href="https://github.com/RedHat-Healthcare/" target="_blank"> organization</a>. Our intent is to build and 
 enable healthcare platforms and enable an open source healthcare community. As part of this community we 
-wanted to provide guidelines on how we expect those to behave that join the [community](CodeOfConduct.png).
+wanted to provide guidelines on how we expect those to behave that join the [community](CodeOfConduct.html).
