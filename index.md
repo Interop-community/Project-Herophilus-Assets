@@ -1,39 +1,5 @@
 
-![iDaaS Word Art](images/iDAAS-Web-WordCloud.png)
-
-# Background
-There are many forces from a competitive, legislative or reimbursement perspective that are applying pressure across the 
-entire healthcare market continuum. Over the last decade these forces have continued to both grow and morph, sometimes in 
-exponential ways. Some of the external forces include state and federal mandates continuing to expand, competitors 
-that are also partners, third party business leveraging various aspects of both clinical and financial data, financial 
-pressures from areas such as reimbursement levels dropping while requirements around care and information continue to increase, technical demonstration of value to business 
-stakeholders, and areas like value based care continuing to expand. With 
-all these forces the one thing healthcare sees consistently is  their main means to address all these forces is 
-found with their data. Because of the extensive amount of data involved within the healthcare organizations they 
-continue to procure or are transforming to develop and deliver solutions. Irrespective of healthcare organizations 
-business model(s): buy, build or a combination of buy and build the key remains that healthcare’s effectiveness is 
-driven by data driven capabilities from more accurate access to information in near real-time that can give them 
-intelligence and enable them to have better platforms and capabilities in near real time.
-
-Most healthcare organizations leverage some form of enterprise application integration platform to deliver integration. 
-Through these black box technologies the most common healthcare “integration” approach is to send all data to all 
-systems with little or no intelligence, no to minimal governance, and at best minimal data management. Some common 
-industry terms for this we have heard are “spray and pray”, “get once and send everywhere” and “the integration firehose.” 
-Mixing this very common approach with most vendors providing solutions in healthcare are typically point solutions that 
-are focused around a small, and very specific, subset of information more often than not is not a good mix. 
-This integration practice puts organizations at risk for a series of technical issues but also mitigates the effect 
-integration can have to transform healthcare organizations. Integration should be the innovation enabler for every 
-healthcare based organization. Our focus, in developing this design pattern/reference architecture has been, and will 
-continue to be, helping to meet data where it is and transform application and data integration to become data innovation. 
-Our belief is that by enabling teams to work together across organizational departments and in a consistent and extensible 
-manner we will help transform healthcare’s ability to deliver more vibrant applications and platforms. While we are working 
-on helping many healthcare companies transform with this design pattern/accelerator we are also showcasing the benefits and 
-value of enterprise open source solutions.
-
-This is the upstream community to Red Hat Healthcare's Intelligent DaaS. Please feel free to go to our discussion
-and/or issues areas in any of the specific repositories. We consider all feedback as we are looking to improve our design pattern/reference architecture.
-Any communication to these areas or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
-
+[comment]: <> (![iDaaS Word Art]&#40;images/iDAAS-Web-WordCloud.png&#41;)
 # General Content Links
 Below are general content links to help ensure we share key content from the project or industry with everyone.
 
@@ -44,7 +10,7 @@ Below are general content links to help ensure we share key content from the pro
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus/blob/main/NationalStds/FederalStandards/USCDI-Version-2-July-2021-Final.pdf" target="_blank">US CDI v2 Standard</a>|
 
 # Common Links
-Below are common links to help you navigate all the site content. 
+Below are common links to help you navigate all the site content.
 
 | General|Platform Design |
 | -------------|----------|
@@ -60,6 +26,42 @@ More specific links around technologies used, setup and implementations:
 | -------------|----------|
 |[Technologies Leveraged](docs/Technical/Technologies.md)|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
 |[Technical Guides](docs/Technical/intro.md)|[Implementation Guides](docs/ImplementationGuides/intro.md)|
+
+# Background
+Healthcare IT is an industry that is starting to modernize. While others like to make jokes and comments the sad 
+fact is that a majority of the systems that healthcare uses are purchased from vendors and are based on technologies from the 1970's to late 1990's.
+These systems hold access to billions of patient, financial, life sciences and adminstrative data used across all of healthcare.
+We are now starting to see vendors modernize their systems and also healthcare more willing than ever to invest or develop new
+capabilities as needed to meet the new demands. The reason for this change is that there are many forces impacting healthcare from a competitive, legislative or reimbursement perspective. Over the last decade these 
+forces have continued to both grow and morph, sometimes in exponential ways. 
+
+Some of the forces imoacting healthcare are:
+- External forces include state, jurisdicitional and federal mandates continuing to expand.
+- Competitors that are also partners.
+- Public Cloud
+- Third party businesses leveraging various aspects of both clinical and financial data, financial 
+pressures from areas such as reimbursement levels dropping while requirements around care and information continue 
+to increase.
+- Technical demonstration of value to business stakeholders.
+
+With all these forces the one thing healthcare sees consistently is  their main means to address all these forces is 
+found with their data. Because of the extensive amount of data involved within the healthcare organizations they 
+continue to procure, or are transforming, to develop and deliver solutions. Irrespective of healthcare organizations 
+business model(s): buy, build or a combination of buy and build the key remains that healthcare’s effectiveness is 
+driven by data driven capabilities from more accurate access to information in near real-time that can give them 
+intelligence and enable them to have better platforms and capabilities in near real time.
+
+The intent of this community is to help healthcare build and enable solutions and platforms. Our focus, in 
+developing this design pattern/reference architecture has been, and will continue to be, helping to meet data 
+where it is and transform application and data integration to become data innovation. 
+Our belief is that by enabling teams to work together across organizational departments and in a consistent 
+and extensible manner we will help transform healthcare’s ability to deliver more vibrant applications 
+and platforms. While we are working on helping many healthcare companies transform with this design 
+pattern/accelerator we are also showcasing the benefits and value of enterprise open source solutions.
+
+Please feel free to go to our discussion
+and/or issues areas in any of the specific repositories. We consider all feedback as we are looking to improve our design pattern/reference architecture.
+Any communication to these areas or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
