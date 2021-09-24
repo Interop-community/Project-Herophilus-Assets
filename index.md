@@ -1,5 +1,17 @@
 
 [comment]: <> (![iDaaS Word Art]&#40;images/iDAAS-Web-WordCloud.png&#41;)
+
+# Overall Project Herophilus Background
+This initiative was born by some resources that wanted to try and take a different approach to healthcare, we wanted to create
+a community that could drive healthcare innovation. The only requirement is we wanted to build everything based on open
+source software. A key part to understanding thie effort is a few key points:
+- As part of this effort we leverage (fork other solutions).
+- We have other organizations that have exported our code and/or fork several of our repositories. 
+- We have re-implemented several solutions in downstream technologies and gladly will continue to do this.  
+With these downstream efforts vendors have implemented solutions based on these code ports. This process is more involved 
+than simply forking code as these downstream solutions require additional configuration and testing.
+
+
 # General Content Links
 Below are general content links to help ensure we share key content from the project or industry with everyone.
 
@@ -27,7 +39,7 @@ More specific links around technologies used, setup and implementations:
 |[Technologies Leveraged](docs/Technical/Technologies.md)|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
 |[Technical Guides](docs/Technical/intro.md)|[Implementation Guides](docs/ImplementationGuides/intro.md)|
 
-# Background
+# Why Do This ??
 Healthcare IT is an industry that is starting to modernize. While others like to make jokes and comments the sad 
 fact is that a majority of the systems that healthcare uses are purchased from vendors and are based on technologies from the 1970's to late 1990's.
 These systems hold access to billions of patient, financial, life sciences and adminstrative data used across all of healthcare.
@@ -35,8 +47,8 @@ We are now starting to see vendors modernize their systems and also healthcare m
 capabilities as needed to meet the new demands. The reason for this change is that there are many forces impacting healthcare from a competitive, legislative or reimbursement perspective. Over the last decade these 
 forces have continued to both grow and morph, sometimes in exponential ways. 
 
-Some of the forces imoacting healthcare are:
-- External forces include state, jurisdicitional and federal mandates continuing to expand.
+Some of the forces impacting healthcare are:
+- External forces include state, jurisdictional and federal mandates continuing to expand.
 - Competitors that are also partners.
 - Public Cloud
 - Third party businesses leveraging various aspects of both clinical and financial data, financial 
@@ -60,17 +72,22 @@ and platforms. While we are working on helping many healthcare companies transfo
 pattern/accelerator we are also showcasing the benefits and value of enterprise open source solutions.
 
 Please feel free to go to our discussion
-and/or issues areas in any of the specific repositories. We consider all feedback as we are looking to improve our design pattern/reference architecture.
-Any communication to these areas or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
+and/or issues areas in any of the specific repositories. We consider all feedback as we are looking to improve our design 
+pattern/reference architecture. Any communication to these areas or the project owners influences our 
+[Technical Roadmap](docs/Roadmap/index.md).
 
 # Intelligent DaaS (Data as a Service)
-Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
-built atop industry-leading open-source software. The platform is constructed in a very modern cloud native manner ensuring that any component is designed and built for a specific purpose with scale and extensibility.
+Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design 
+pattern/reference architecture/accelerator </b> built atop industry-leading open-source software. The platform is 
+constructed in a very modern cloud native manner ensuring that any component is designed and built for a specific 
+purpose with scale and extensibility. Below is a reference visual of how some of the core reference rchitecture/accelerators 
+fit together. 
 
 ![iDaaS Components](images/iDaaS-Components.png)
 
 The sole purpose of ALL the capabilities we have built for healthcare is to enable <b> Data as an Asset</b>. 
-Data Integration is all about Data Innovation and all the things you can achieve with access to the data:
+The major focus of our efforts is to enable Data Integration to become a mainstream application development enablement
+and is all about Data Innovation and all the things you can achieve with access to the data.
 
 ![iDaaS Art of the Possible](images/iDAASPlatform-iDaaSDataFlow-Detailed.png)
 
