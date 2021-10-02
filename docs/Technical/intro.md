@@ -13,7 +13,8 @@ OS you choose to run this on.
 | Specific Implementation Guides|
 | -------------|
 |[Building Fedora Machine](BuildingFedoraDevMachine.md)|
-|[Building Fedora Machine](BuildingLinuxDevMachine.md)|
+|[Building Ubuntu Machine](BuildingUbuntuDevMachine.md)|
+|[Building RHEL Machine](BuildingLinuxDevMachine.md)|
 
 More of these will be coming as we work to ensure the content is consistent and accurate.
 

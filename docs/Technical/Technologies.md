@@ -13,7 +13,7 @@ it natively supports, this will be very beneficial as connectivity will continue
 This capability is supported by <a href="https://www.redhat.com/en/technologies/jboss-middleware/decision-manager" target="_blank">Decision Manager</a>
 and the upstream <a href="https://www.drools.org/" target="_blank">Drools</a> community. This technology is very largely adopted and implemented throughout
 the community. Drools has a very large footprint in organizations all over the world delivering expert based solutions and capabilities.
-#ż Complex Event Processing</td>
+## Complex Event Processing</td>
 This capability is supported by <a href="https://access.redhat.com/products/red-hat-process-automation-manager" target="_blank">Process Automation Manager</a>
 and the upstream <a href="https://www.drools.org/" target="_blank">Drools</a> community.  The specific technology within the Drools community is called Drools Fusion. 
 This technology is very largely adopted and implemented throughout

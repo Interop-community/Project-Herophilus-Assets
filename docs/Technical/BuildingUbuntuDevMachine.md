@@ -1,11 +1,7 @@
 # Background
-For this specific development image I started with RHEL 8.3; however, I also ran the on RHEL 8.2. Keep
-in mind that your RHEL VM will only be good for 2-3 months as subscriptions can lapse and must be renewed
-through the subscription manager. Base RHEL install, update subscription manager and patch. As for the install 
-typically the installs are the Server with GUI where lots of development tools and libraries are selected.
-The ONLY development language required for iDaaS specifically is Java SDK. The other development
-languages are used for a variety of efforts and needs. We don't cover Python in this section but those
-instructions can be easily found online.
+The goal of this document is to help with the basics of installing an Ubuntu machine and the needed 
+artifacts. We do not take a community position on the specific OS to leverage for development and implementation. 
+Many resources have expressed happiness in the performance of Ubuntu overall.
 
 # General Pre-Requisites
 After installing and setting up the system either on dedicated, virtual or IAAS based hardware then
@@ -16,8 +12,8 @@ What we have built out is directories for each of the following:
 - /Development
 - /OpenSourceTech
 - /RedHatTech - (If you download any supported RedHat Bits)
-Here is a general link for knowledge: https://averagelinuxuser.com/linux-root-folders-explained/ <br/>
-Here are some generic instructions we have for creating /Development
+  Here is a general link for knowledge: https://averagelinuxuser.com/linux-root-folders-explained/ <br/>
+  Here are some generic instructions we have for creating /Development
 ```
 sudo mkdir /Development
 ```
@@ -33,7 +29,7 @@ implementation of iDaaS reference architectures.
 The most popular version control management system and the one we leverage.
 
 ```
-sudo dnf install git
+sudo apt install git-all
 ```
 
 ### Package Repository
@@ -41,7 +37,7 @@ sudo dnf install git
 #### Maven
 his is needed on development machines and is the central repository management tool.
 From the command line: <br>
-```sudo dnf install maven```
+```sudo apt install maven```
 
 ### Development Language(s)
 
@@ -54,30 +50,27 @@ instructions can be easily found online.
 Platform comes with OpenJDK 8. Based on needs feel free to update system to (not just JREs) as you need.
 For this environment we will install Java OpenJDK 11. We have also had committers and resources leveraging
 iDaaS running Open JDK 11, 13, 14 and 15 as well, As with everything it is critical to make sure
-that you only run approved technologies. <br>
-From the command line:<br>
-```yum install java-11-openjdk-devel```
+that you only run approved technologies. From the command line:<br>
+```
+sudo apt-get install openjdk-11-jdk
+```
 
 A key benefit of using Linux is the ease of switching Java versions. This is managed by <br>
 ```
 sudo update-alternatives --config java
 ```
 #### NodeJS
-Node has continued to grow and expand in capabilities are features. We are currently starting to 
-use it within iDaaS and various other iDaaS open source assets, the plans are to continue to expand 
+Node has continued to grow and expand in capabilities are features. We are currently starting to
+use it within iDaaS and various other iDaaS open source assets, the plans are to continue to expand
 how we leverage it in 2022.<br/>
 <a href="https://nodejs.org/en/" target="_blank">Node JS Web Site</a><br>
 ```
-dnf module install nodejs:<stream>
+sudo apt install nodejs
 ```
 
 #### .Net Core
-While not currently used within iDaaS there are plans to start leveraging it in 2021.<br/>
-        <a href="https://docs.microsoft.com/en-us/dotnet/core/install/linux" target="_blank">.Net Core Linux</a><br>
-        <a href="https://docs.microsoft.com/en-us/dotnet/core/install/linux-rhel" target="_blank">.Net Core on Linux</a><br>
-        From the command line: <br>
-        ```sudo dnf install dotnet-sdk-5.0``` <br/>
-        ```sudo dnf install dotnet-sdk-3.1```
+While not currently used within iDaaS there are plans to start leveraging it in 2022.
+Here is a link to follow for the installation instructions: https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#2104-
 
 # Development Tooling
 
@@ -100,7 +93,7 @@ sudo tar -xvf jetbrains-toolbox-releasenumber.tar.gz -C /opt
 Now you can install all the development tools you need to leverage, clearly within Community edition or license you may have purchased
 
 # Additional Tools
-Depending upon if you are going to do all development and testing local then you might need a few additional 
+Depending upon if you are going to do all development and testing local then you might need a few additional
 technologies installed locally.
 
 ## Apache Kafka
@@ -114,21 +107,24 @@ There are two common RDBMS - Relational Databases technologies that we support. 
 done has been in MySQL/MariaDB. There are some nuances so you will notice for a few capabilities we
 have seperate scripts for each of these technologies.
 
-### MySQL (Using MariaDB): 
-https://fedoraproject.org/wiki/MariaDB <br/>
+### MySQL (Using MariaDB):
+For any database server on any platform there could be additional steps needed to make them completely 
+functional. 
+
+https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04 <br/>
 
 ```
-sudo dnf install mariadb
+sudo apt install mariadb-server
 ``` 
-For MySQL Community Server
+For MySQL Community Server https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
 ```
-sudo dnf install mysql-community-server
+sudo apt install mysql-server
 ``` 
 
-### PostgresQL 
-https://fedoraproject.org/wiki/PostgreSQL
+### PostgresQL
+https://ubuntu.com/server/docs/databases-postgresql
 ```
-sudo dnf install postgres-server
+sudo apt install postgresql
 ```
 
 # Cloning Code and Getting Started Implementing
