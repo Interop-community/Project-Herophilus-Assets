@@ -19,8 +19,12 @@ Please reference the [Platform Component Specifics](../Design/PlatformComponents
 ## 2021
 [January - 2021](2021-01.md)<br/>
 [February - 2021](2021-02.md)<br/>
-[March- 2021](2021-03.md)<br/>
-[April- 2021](2021-04.md)<br/>
-[May- 2021](2021-05.md)<br/>
-[June- 2021](2021-06.md)<br/>
-[July- 2021](2021-07.md)<br/>
+[March - 2021](2021-03.md)<br/>
+[April - 2021](2021-04.md)<br/>
+[May - 2021](2021-05.md)<br/>
+[June - 2021](2021-06.md)<br/>
+[July - 2021](2021-07.md)<br/>
+[Auguat - 2021](2021-08.md)<br/>
+[September - 2021](2021-09.md)<br/>
+[October - 2021](2021-10.md)<br/>
+[November - 2021](2021-11.md)<br/>
