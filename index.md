@@ -35,26 +35,34 @@ Below are general content links to help ensure we share key content from the pro
 # Common Links
 Below are common links to help you navigate all the site content.
 
-| General|Platform Design |
-| -------------|----------|
-|[General Background](./docs/General/Background.md)|[Architecture](docs/Design/Architecture.md)|
-|[OpenSource](docs/General/OpenSource.md)|[Design Principles](docs/Design/DesignPrinciples.md)|
-|[Code of Conduct](docs/General/CodeOfConduct.md)|[Capabilities](docs/Design/Capabilities.md)|
-|[Fictious Org.](docs/General/FictitiousOrg.md)|[Platform Components](docs/Design/PlatformComponents.md)|
-|[Technical Leadership](docs/General/TechnicalLeadership.md)|[Integration Standards Support](docs/Design/IntegrationStandardsSupported.md)|
+| Content Area |
+| -------------|
+|[Architecture](docs/Design/Architecture.md)|
+|[Capabilities](docs/Design/Capabilities.md)|
+|[Code of Conduct](docs/General/CodeOfConduct.md)|
+|[Design Principles](docs/Design/DesignPrinciples.md)|
+|[Fictious Org.](docs/General/FictitiousOrg.md)|
+|[Integration Standards Support](docs/Design/IntegrationStandardsSupported.md)|
+|[OpenSource](docs/General/OpenSource.md)|
+|[Platform Components](docs/Design/PlatformComponents.md)|
+|[Technical Advisors](docs/General/TechnicalLeadership.md)|
+
+[comment]: <> (|[Technical Leadership]&#40;docs/General/TechnicalLeadership.md&#41;|)
 
 More specific links around technologies used, setup and implementations:
 
-| Technical |Use Cases - Implementations |
-| -------------|----------|
-|[Technologies Leveraged](docs/Technical/Technologies.md)|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
-|[Technical Guides](docs/Technical/intro.md)|[Implementation Guides](docs/ImplementationGuides/intro.md)|
+| Specific Topics and Guides |
+| -------------|
+|[Implementation Guides](docs/ImplementationGuides/intro.md)|
+|[Technologies Leveraged](docs/Technical/Technologies.md)|
+|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
+|[Technical Guides](docs/Technical/intro.md)|
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design 
 pattern/reference architecture/accelerator </b> built atop industry-leading open-source software. The platform is 
 constructed in a very modern cloud native manner ensuring that any component is designed and built for a specific 
-purpose with scale and extensibility. Below is a reference visual of how some of the core reference rchitecture/accelerators 
+purpose with scale and extensibility. Below is a reference visual of how some of the core reference architecture/accelerators 
 fit together. 
 
 ![iDaaS Components](images/iDaaS-Components.png)
