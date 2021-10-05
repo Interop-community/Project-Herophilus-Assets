@@ -1,8 +1,6 @@
 # Technical Advisors
-Apart from the healthcare industry and its adoption and contributions the Connected Health / iDaaS 
-has received amazing support from Red Hat. This platform has been adopted by the Office of the CTO
-and continues to get internal resources assisting us expand its capabilities.  Below are the key technical leaders
-within Red Hat.
+A very large part of our work on this effort is to get industry advise and council. In order to do this effectively we
+have started getting amazin and wonderful industry resources to provide us advise. 
 
 [comment]: <> (# Healthcare Business Leader)
 
