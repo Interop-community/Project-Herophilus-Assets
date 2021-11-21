@@ -44,16 +44,18 @@ or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
 # Setting Community Standards
 While it should be well understood, we have published our [expectations for anyone who decides to post](docs/General/CodeOfConduct.md) any content on our assets provided
 
-# General Content Links
+# Content Links
 Below are general content links to help ensure we share key content from the project or industry with everyone.
 
-| General Content|
+## General Industry Content
+
+| Content|
 | -------------|
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/CMS/CMS-Interoperability%20and%20Data%20Access%20Final%20Rule.pdf" target="_blank">CMS Interoperability Final Rule</a>|
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/ONC/ONC_Cures_Act_Final_Rule_03092020.pdf" target="_blank">21st Centrury Cures Act</a>|
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/FHIR/USCDI-Version-2-July-2021-Final.pdf" target="_blank">US CDI v2 Standard</a>|
 
-# Common Links
+## Common Platform Specific Links
 Below are common links to help you navigate all the site content.
 
 | Content Area |
@@ -66,19 +68,18 @@ Below are common links to help you navigate all the site content.
 |[OpenSource](docs/General/OpenSource.md)|
 |[Platform Components](docs/Design/PlatformComponents.md)|
 |[Technical Advisors](docs/General/TechnicalLeadership.md)|
-
-[comment]: <> (|[Technical Leadership]&#40;docs/General/TechnicalLeadership.md&#41;|)
+|[Technologies Leveraged](docs/Technical/Technologies.md)|
 
 More specific links around technologies used, setup and implementations:
+
+## Technical: Setup and Implementation
+The following content is intended to be specific to getting your environment setup or implementing.
 
 | Specific Topics and Guides |
 | -------------|
 |[Implementation Guides](docs/ImplementationGuides/intro.md)|
-|[Technologies Leveraged](docs/Technical/Technologies.md)|
 |[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
 |[Technical Guides](docs/Technical/intro.md)|
-
-
 
 <br/>
 Happy coding!!!!
