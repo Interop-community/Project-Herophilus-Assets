@@ -18,13 +18,20 @@ credited with being the founder of Anatomy. Assets currently available provide t
 data integration, synthetic data, and more - all developed and available to any organization. Project Herophilus has 
 made these assets available to anyone using fully open source software and all under Apache 2 licensing.
 
-Of the major efforts in Project Herophilus there is a major branded effort to provide a newer form of innovation
-Intelligent DaaS (Data as a Service). It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
-built atop industry-leading open-source software. The platform is constructed in a very modern cloud native manner ensuring 
-that any component is designed and built for a specific purpose with scale and extensibility. The sole purpose of ALL the 
-capabilities we have built for healthcare is to enable <b> Data as an Asset</b>. The major focus of our efforts is to 
-reduce the risk and move Data Integration towards Data Innovation and enable it to move from a specific task based 
-enabler to a mainstream application development enablement.
+Project Herophilus intent is to help with various aspects of data challenges consistently seen across all areas of 
+healthcare for decades. 
+- Simplify and enable easier and more consistent access to data. One of the assets is
+named Intelligent DaaS (Data as a Service): It is intended to be a comprehensive <b> design pattern/ reference architecture/ accelerator </b>. 
+It includes the ability to connect, route/distribute, build business process/decision management based apps and 
+provides comprehensive audit enablement.  
+- Event Builder: Comprehensive parsing and data building library for a comprehensive set of healthcare data standards.
+- Synthetic Data: The ability to leverage billions of data attributes in any number of ways to maximize business needs
+and benefits.
+The platform is constructed in a very modern cloud native manner ensuring that any component is designed and built for 
+a specific purpose with scale and extensibility. The sole purpose of ALL the capabilities we have built for healthcare 
+is to enable <b> Data as an Asset</b>. The major focus of our efforts is to reduce the risk and move Data Integration 
+towards Data Innovation and enable it to move from a specific task based enabler to a mainstream application 
+development enablement.
 
 Red Hat who is a leader in enterprise open source and offers support, security, services and training. In alignment with 
 healthcare and technology's embrace of community and open source, Red Hat has been a key sponsor and supporter of Project 
