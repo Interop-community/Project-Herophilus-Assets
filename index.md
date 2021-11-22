@@ -21,9 +21,9 @@ made these assets available to anyone using fully open source software and all u
 Project Herophilus intent is to help with various aspects of data challenges consistently seen across all areas of 
 healthcare for decades. 
 - Simplify and enable easier and more consistent access to data. One of the assets is
-named Intelligent DaaS (Data as a Service): It is intended to be a comprehensive <b> design pattern/ reference architecture/ accelerator </b>. 
-It includes the ability to connect, route/distribute, build business process/decision management based apps and 
-provides comprehensive audit enablement.  
+named Intelligent DaaS (Data as a Service): It is intended to be a comprehensive set of <b> design patterns/ reference 
+architectures/ accelerators </b>. It includes the ability to connect, route/distribute, build business process/decision 
+management based apps and provides comprehensive audit enablement.  
 - Event Builder: Comprehensive parsing and data building library for a comprehensive set of healthcare data standards.
 - Synthetic Data: The ability to leverage billions of data attributes in any number of ways to maximize business needs
 and benefits.
@@ -35,7 +35,7 @@ development enablement.
 
 Red Hat who is a leader in enterprise open source and offers support, security, services and training. In alignment with 
 healthcare and technology's embrace of community and open source, Red Hat has been a key sponsor and supporter of Project 
-Herophilis. Red Hat is keeping its enterprise open source leading approach and operates a subset 
+Herophilus. Red Hat is keeping its enterprise open source leading approach and operates a subset 
 of these assets “downstream.” While the “accelerators” are provided as is, Red Hat customers can get secure and 
 supported software the “accelerators” run atop for their production and other business needs. For more information please
 feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus are forked here and other 
