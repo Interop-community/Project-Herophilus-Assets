@@ -1,6 +1,6 @@
 [comment]: <> (![iDaaS Word Art]&#40;images/iDAAS-Web-WordCloud.png&#41;)
 
-# Overall Project Herophilus Background
+# Background
 Open Source or the "community" development model has been used in software development for almost two decades. Over the 
 last decade all significant software innovation in the past 10 years has been from open-source communities. Here is a
 <a href="https://www.redhat.com/rhdc/managed-files/rh-enterprise-open-source-report-f27565-202101-en.pdf" target="_blank">report</a>
@@ -10,19 +10,24 @@ in areas such as treatment protocols, safety standards, and industry standards b
 a new era driven by comsumption and secure managed services it is a perfect time in healthcare for open source and 
 healthcare.
 
-Welcome to Project Herophilus, this Git Hub based organization is intended to be an open source upstream healthcare 
-community with a specific focus around build data driven assets. The intent of this organization is two fold: help drive 
+Welcome to Project Herophilus, this GitHub based organization is intended to be an open source upstream healthcare 
+community with a specific focus around build data driven assets. In order to help healthcare it was critical that we 
+define [specific design principles](docs/Design/DesignPrinciples.md) to ensure a very [scalable, extensible and reusable architecture](docs/Design/Architecture.md) with a focus on enabling 
+specific [capabilities](docs/Design/Capabilities.md). The intent of this organization is two fold: help drive 
 data driven open source capabilities into healthcare while demonstrating how healthcare can leverage open source to 
 solve industry problems!!! Why the name? Herophilus or spelled Herophilos, Herophilus was a Greek physician who is often 
 credited with being the founder of Anatomy. Assets currently available provide tools for configuration, testing, 
 data integration, synthetic data, and more - all developed and available to any organization. Project Herophilus has 
 made these assets available to anyone using fully open source software and all under Apache 2 licensing.
 
-Project Herophilus intent is to help with various aspects of data challenges consistently seen across all areas of 
-healthcare for decades. 
+Project Herophilus intent is to help with various areas related to data challenges consistently seen across all areas of 
+healthcare for decades. We created a [Fictious Org.](docs/General/FictitiousOrg.md) for consistency. 
+The overall project is intended to deal with [Integration Standards Support](docs/Design/IntegrationStandardsSupported.md)
+and non industry standard data challenges. At Project Herophilus we [leverage industry leading open source technologies](docs/Technical/Technologies.md) 
+You can see the [various repositories](docs/Design/PlatformComponents.md) and the specific capabilities they enable.
 - Simplify and enable easier and more consistent access to data. One of the assets is
-named Intelligent DaaS (Data as a Service): It is intended to be a comprehensive set of <b> design patterns/ reference 
-architectures/ accelerators </b>. It includes the ability to connect, route/distribute, build business process/decision 
+named Intelligent DaaS (Data as a Service): It is intended to be a comprehensive set of <b> design patterns / reference 
+architectures / accelerators </b>. It includes the ability to connect, route/distribute, build business process/decision 
 management based apps and provides comprehensive audit enablement.  
 - Event Builder: Comprehensive parsing and data building library for a comprehensive set of healthcare data standards.
 - Synthetic Data: The ability to leverage billions of data attributes in any number of ways to maximize business needs
@@ -33,12 +38,18 @@ is to enable <b> Data as an Asset</b>. The major focus of our efforts is to redu
 towards Data Innovation and enable it to move from a specific task based enabler to a mainstream application 
 development enablement.
 
-Red Hat who is a leader in enterprise open source and offers support, security, services and training. In alignment with 
-healthcare and technology's embrace of community and open source, Red Hat has been a key sponsor and supporter of Project 
-Herophilus. Red Hat is keeping its enterprise open source leading approach and operates a subset 
-of these assets “downstream.” While the “accelerators” are provided as is, Red Hat customers can get secure and 
-supported software the “accelerators” run atop for their production and other business needs. For more information please
-feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus are forked here and other 
+| Specific Topics and Guides |
+| -------------|
+|[Implementation Guides](docs/ImplementationGuides/intro.md)|
+|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
+|[Technical Guides](docs/Technical/intro.md)|
+
+We have numerous [Technical Advisors](docs/General/TechnicalLeadership.md) that help ensure we are addressing healthcare 
+industry needs. Beyond our technical advisors we have received key sponsorship from Red Hat. Red Hat who is a leader in 
+enterprise open source and offers support, security, services and training. Red Hat is keeping its enterprise open source 
+leading approach and operates a subset of these assets “downstream.” While the “accelerators” are provided as is, Red 
+Hat customers can get secure and supported software the “accelerators” run atop for their production and other business 
+needs. For more information please feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus are forked here and other 
 branded efforts are named the same. Some of these cannot be forked as they leverage completely different libraries and 
 go through a seperate build and testing process; however, the capabilities they deliver are the same.
 
@@ -48,12 +59,6 @@ or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
 
 [comment]: <> (Show a mind with ideas a links to it with questions)
 
-# Setting Community Standards
-While it should be well understood, we have published our [expectations for anyone who decides to post](docs/General/CodeOfConduct.md) any content on our assets provided
-
-# Content Links
-Below are general content links to help ensure we share key content from the project or industry with everyone.
-
 ## General Industry Content
 
 | Content|
@@ -61,32 +66,6 @@ Below are general content links to help ensure we share key content from the pro
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/CMS/CMS-Interoperability%20and%20Data%20Access%20Final%20Rule.pdf" target="_blank">CMS Interoperability Final Rule</a>|
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/ONC/ONC_Cures_Act_Final_Rule_03092020.pdf" target="_blank">21st Centrury Cures Act</a>|
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/FHIR/USCDI-Version-2-July-2021-Final.pdf" target="_blank">US CDI v2 Standard</a>|
-
-## Common Platform Specific Links
-Below are common links to help you navigate all the site content.
-
-| Content Area |
-| -------------|
-|[Architecture](docs/Design/Architecture.md)|
-|[Capabilities](docs/Design/Capabilities.md)|
-|[Design Principles](docs/Design/DesignPrinciples.md)|
-|[Fictious Org.](docs/General/FictitiousOrg.md)|
-|[Integration Standards Support](docs/Design/IntegrationStandardsSupported.md)|
-|[OpenSource](docs/General/OpenSource.md)|
-|[Platform Components](docs/Design/PlatformComponents.md)|
-|[Technical Advisors](docs/General/TechnicalLeadership.md)|
-|[Technologies Leveraged](docs/Technical/Technologies.md)|
-
-More specific links around technologies used, setup and implementations:
-
-## Technical: Setup and Implementation
-The following content is intended to be specific to getting your environment setup or implementing.
-
-| Specific Topics and Guides |
-| -------------|
-|[Implementation Guides](docs/ImplementationGuides/intro.md)|
-|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
-|[Technical Guides](docs/Technical/intro.md)|
 
 <br/>
 Happy coding!!!!
