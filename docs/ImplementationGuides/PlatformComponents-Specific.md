@@ -10,7 +10,7 @@ There are several repositories which are provided to help in implementations.
 |Simulators|<a href="https://github.com/RedHat-Healthcare/iDaaS-Simulators" target="_blank">Data Simulators</a>|Simulators for HL7, FHIR. APIs and more|
 |Building Fictitious Data|<a href="https://github.com/RedHat-Healthcare/DataSynthesis" target="_blank">Data Synthesis</a>|This component is specifically designed to enable implementors to quickly build fictitious data for testing. It has over 30B data attributes including names, address, phone numbers, zip codes, company names, drivers licenses, social security numbers, credit cards, bank routing numbers and so much more.|
 
-## Scenarios
+## Showcases
 There are several repositories provided to give end to end implementation guidance.
 
 | Capability | Repository  | Description  |

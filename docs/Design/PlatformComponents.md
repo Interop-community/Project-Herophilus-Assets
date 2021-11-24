@@ -1,17 +1,9 @@
----
-layout: default
-title: Platform Components
-parent: Design Principles
-nav_order: 6
-description: "Platform Components"
----
-
 # Platform Components
 iDaaS is a series of accelerators, because of this component based design, building with it or atop it is straight forward, 
 repeatable and reusable. Within each iDaaS component there is an implementation/running specific set of instructions.  <br />
 <i>Each component contains a link to the public Git Hub code repositories!!!</i>
 
-## Upstrean General Available Repositories
+## Upstream General Repositories
 These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we 
 focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development 
 and implementation experience.
@@ -23,7 +15,7 @@ Capability  | Description  |
 |<a href="https://github.com/Project-Herophilus/Event-Builder" target="_blank">Event Builder| This repository is the code base that can be used to parse, generate and build healthcare industry std. data within iDaaS or other technologies.|
 |<a href="https://github.com/Project-Herophilus/iDaaS-AddOns" target="_blank">iDaaS Add-Ons| This repository is Intended to be assets that can be used across assets and be generally helpful with some specific challenges.|
 
-## Upstrean Platform Repositories
+## Upstream Platform Repositories
 These are very specific repositories meant to showcase the capability with a limited set of features. In January 2021 we focused on consolidating almost thirty repositories to less than ten. We did this to ensure we simplified the development and implementation experience.
 
 | Capability | Description  |

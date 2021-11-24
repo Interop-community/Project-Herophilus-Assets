@@ -1,15 +1,6 @@
----
-layout: default
-title: Industry Standard Support
-parent: Design Principles
-nav_order: 7
-description: "Industry Standard Support"
----
-
 # Intelligent DaaS (Data as a Service) Industry Standards Support
 
 This section is designed to cover all the various industry standards Intelligent DaaS support.
-
 
 ## HL7
 Within the clinical integration space HL7.org is the group that manages and oversees the industry standards and has for 

@@ -1,11 +1,3 @@
----
-layout: default
-title: Design Principles
-nav_order: 4
-description: "Design Principles"
-has_children: true
----
-
 ## Design Principles
 
 For decades across the various markets within healthcare (clinical, financial, pharmacy and life sciences) integration 

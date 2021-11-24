@@ -24,40 +24,43 @@ Project Herophilus intent is to help with various areas related to data challeng
 healthcare for decades. We created a [Fictious Org.](docs/General/FictitiousOrg.md) for consistency. 
 The overall project is intended to deal with [Integration Standards Support](docs/Design/IntegrationStandardsSupported.md)
 and non industry standard data challenges. At Project Herophilus we [leverage industry leading open source technologies](docs/Technical/Technologies.md) 
-You can see the [various repositories](docs/Design/PlatformComponents.md) and the specific capabilities they enable.
-- Simplify and enable easier and more consistent access to data. One of the assets is
-named Intelligent DaaS (Data as a Service): It is intended to be a comprehensive set of <b> design patterns / reference 
-architectures / accelerators </b>. It includes the ability to connect, route/distribute, build business process/decision 
-management based apps and provides comprehensive audit enablement.  
+
+- Intelligent DaaS (Data as a Service): Simplify and enable easier and more consistent access to data. It is intended to be 
+a comprehensive set of <b> design patterns / reference architectures / accelerators </b> to help anyone and supports hundreds
+of connectors from legacy to modern to industry standards to various public clouds. It includes the ability to connect, 
+route/distribute, build business process/decision management based apps and provides comprehensive audit capabilities.  
 - Event Builder: Comprehensive parsing and data building library for a comprehensive set of healthcare data standards.
 - Synthetic Data: The ability to leverage billions of data attributes in any number of ways to maximize business needs
 and benefits.
 The platform is constructed in a very modern cloud native manner ensuring that any component is designed and built for 
 a specific purpose with scale and extensibility. The sole purpose of ALL the capabilities we have built for healthcare 
-is to enable <b> Data as an Asset</b>. The major focus of our efforts is to reduce the risk and move Data Integration 
-towards Data Innovation and enable it to move from a specific task based enabler to a mainstream application 
-development enablement.
+is to enable <b> Data as an Asset</b>. The major focus of our efforts is to reduce, and hopefully remove, the data barriers
+while reducing risk and moving data integration towards <b>Data Innovation</b> and enable it to move from a specific task based 
+enabler to a mainstream application development enablement.
+
+# How to Get Started
+
+You can see the [various repositories](docs/Design/PlatformComponents.md) and the specific capabilities they enable.
 
 | Specific Topics and Guides |
 | -------------|
 |[Implementation Guides](docs/ImplementationGuides/intro.md)|
-|[Platform Component Specifics](docs/UseCases/PlatformComponents-Specific.md)|
+|[Platform Component Specifics](docs/ImplementationGuides/PlatformComponents-Specific.md)|
 |[Technical Guides](docs/Technical/intro.md)|
 
+# Where Are We Headed
 We have numerous [Technical Advisors](docs/General/TechnicalLeadership.md) that help ensure we are addressing healthcare 
 industry needs. Beyond our technical advisors we have received key sponsorship from Red Hat. Red Hat who is a leader in 
 enterprise open source and offers support, security, services and training. Red Hat is keeping its enterprise open source 
 leading approach and operates a subset of these assets “downstream.” While the “accelerators” are provided as is, Red 
 Hat customers can get secure and supported software the “accelerators” run atop for their production and other business 
-needs. For more information please feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus are forked here and other 
-branded efforts are named the same. Some of these cannot be forked as they leverage completely different libraries and 
-go through a seperate build and testing process; however, the capabilities they deliver are the same.
+needs. For more information please feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus 
+are forked here and other branded efforts are named the same. Some of these cannot be forked as they leverage completely 
+different libraries and go through a seperate build and testing process; however, the capabilities they deliver are the same.
 
 Please feel free to go to our discussion  and/or issues areas in any of the specific repositories. We consider all 
 feedback as we are looking to improve our design pattern/reference architecture. Any communication to these areas 
 or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
-
-[comment]: <> (Show a mind with ideas a links to it with questions)
 
 ## General Industry Content
 
