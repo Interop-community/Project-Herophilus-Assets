@@ -1,54 +1,41 @@
 # Features
 The following is intended to be a list of all the feature capabilities that are available. This entire feature matrix is
-for Project Herophilus and downstream efforts may vary.
-
-<table>
-  <tr>
-    <th>Area</th>
-    <th>Resource Name</th>
-    <th>Social Media/LinkedIn Link</th>
-    <th>Current Industry Role</th>
-  </tr>
- <tr>
-    <td>Founder - Thought Leader and Active Contributor</td>
-    <td>Alan Scott</td>
-    <td>Global Chief Technologist, Red Hat Healthcare</td>
-    <td>Chief Technologist for Red hat healthcare's market team, My focus is to ensure that Red Hat's technologies meet
-    the healthcare industries needs. To support this I work in a series of open source communities specifically to help healthcare.
-    </td>
-  </tr>
-</table>
-
-## On-Premise Support Support
-| Item Desc |Status|Notes|
-| -------------|-----------|------|
-|Mainframe|<img src="../../images/general/lightbulb-navy-solid.png" width=50 height=50>| Awaiting industry support for November 2021 release|
-|Physicai Servers|<img src="../../images/general/Check-navy.png" width=50 height=50>|Has Been Running since January 2021.|
-|Virtual Servers|<img src="../../images/general/Check-navy.png" width=50 height=50>|Has Been Running since January 2021.|
-
-## Multi-Cloud Support
-| Item Desc |Status|Notes|
-| -------------|-----------|------|
-|AWS|<img src="../../images/general/Check-navy.png" width=50 height=50>|Has Been Running in many different ways since April 2021.|
-|Azure|<img src="../../images/general/Check-navy.png" width=50 height=50>|Have Run this in several ways.|
-|GCP|<img src="../../images/general/lightbulb-navy-solid.png" width=50 height=50>|Planning is underway for a November 2021 release|
-
-## Industry Standards Approach
-| Item Desc |Status|Notes|
-| -------------|-----------|------|
-|CCDA|<img src="../../images/general/Check-navy.png" width=50 height=50>|Supported via parsing and processing used within Event Builder|
-|EDI|<img src="../../images/general/Check-navy.png" width=50 height=50>|Supported via parsing and processing used within Event Builder|
-|ePrescribe|<img src="../../images/general/Check-navy.png" width=50 height=50>|Supported via parsing and processing used within Event Builder|
-|FHIR|<img src="../../images/general/Check-navy.png" width=50 height=50>||
-|HL7|<img src="../../images/general/Check-navy.png" width=50 height=50>||
-
-
-## Connectivity Support
-| Item Desc |Status|Notes|
-| -------------|-----------|------|
-||||
+for Project Herophilus and <b><i>downstream efforts may vary</b></i>.
 
 ## Mgmt/Operations Support
 | Item Desc |Status|Notes|
 | -------------|-----------|------|
-||||
+|Mgmt User Interface|![](../../images/general/Check-navy.png)|Every iDaaS-Connect, iDaaS-Route or iDaaS DReaM reference architecture has a complete management user interface included. This also can enable the data to be exported in near real time to very common tools like Data Dog, Grafana and numerous other tools.|
+
+## General Features
+| Item Desc |Status|Notes|
+| -------------|-----------|------|
+|Mapping Capabilities|![](../../images/general/Check-navy.png)||
+
+## Industry Standards Approach
+The platform also have native capabilities to convert from CCDA and certain HL7 v2.x messages to FHIR R4 equivalents built in.
+
+| Item Desc |Status|Notes|
+| -------------|-----------|------|
+|CCDA|![](../../images/general/Check-navy.png)|Supported via parsing and processing used within Event Builder|
+|EDI|![](../../images/general/Check-navy.png)|Supported via parsing and processing used within Event Builder|
+|ePrescribe|![](../../images/general/lightbulb-navy-solid.png)|Supported via parsing and processing used within Event Builder, just awaiting someone to implement to test.|
+|FHIR|![](../../images/general/Check-navy.png)| Extensive Support built in|
+|HL7|![](../../images/general/Check-navy.png)|Extensive Support built in, no specific limitation around HL7 v 2.x versions, or Z-segments.|
+
+## Multi-Cloud Support
+| Item Desc |Status|Notes|
+| -------------|-----------|------|
+|AWS|![](../../images/general/Check-navy.png)|Has Been Running in many different ways since April 2021. Our internal environments start with AWS.|
+|Azure|![](../../images/general/Check-navy.png)|Have Run this in several ways.|
+|GCP|![](../../images/general/lightbulb-navy-solid.png)|Planning is underway for a January 2022 release|
+|IBM|![](../../images/general/Check-navy.png)|Have Run this in several ways.|
+
+## Server Type Implementation Support
+| Item Desc |Status|Notes|
+| -------------|-----------|------|
+|Physicai Servers|![](../../images/general/Check-navy.png)|Has Been Running since January 2021.|
+|Virtual Servers|![](../../images/general/Check-navy.png)|Has Been Running since January 2021.|
+|Public Clouds - IaaS|![](../../images/general/Check-navy.png)|We See this pattern a lot with various partners and implementers.|
+|Docker/Containers|![](../../images/general/Check-navy.png)|Has been included in numerous repositories for a long time|
+|Mainframe|![](../../images/general/lightbulb-navy-solid.png)| Avaiable as of a December 2021 IBM Mainframe release, the working bits are already in place.|

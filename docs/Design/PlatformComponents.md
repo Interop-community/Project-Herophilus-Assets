@@ -1,6 +1,8 @@
 # Platform Components
-iDaaS is a series of accelerators, because of this component based design, building with it or atop it is straight forward, 
-repeatable and reusable. Within each iDaaS component there is an implementation/running specific set of instructions.  <br />
+iDaaS is a series of <b> design patterns / accelerators </b>, because of this component based design, building with it or 
+atop it is straight forward, repeatable and reusable. Within each iDaaS component there is an implementation/running 
+specific set of instructions.
+
 <i>Each component contains a link to the public Git Hub code repositories!!!</i>
 
 ## Upstream General Repositories
@@ -20,7 +22,7 @@ These are very specific repositories meant to showcase the capability with a lim
 
 | Capability | Description  |
 |---|---|
-|<a href="https://github.com/Project-Herophilus/iDaaS-Demos" target="_blank">iDaaS Demos| This repository is specifically designed to to maintain all the iDaaS platform demos. This repository contains demos for BlueButton, EDI, DREAM, FHIR, HL7, Route Data Distribution, and Third Party.|
+|<a href="https://github.com/Project-Herophilus/iDaaS-Showcases" target="_blank">iDaaS Showcases| This repository is specifically designed to to maintain all the iDaaS platform demos. This repository contains demos for BlueButton, EDI, DREAM, FHIR, HL7, Route Data Distribution, and Third Party.|
 |<a href="https://github.com/Project-Herophiluse/iDaaS-Connect" target="_blank">iDaaS Connect </a>|This repository is specifically designed to to maintain all the iDaaS Connect components. This repository contains iDaaS Connect components for Audit and Compliance, BlueButton, EDI,  FHIR, HL7,, and Third Party.|
 |<a href="https://github.com/Project-Herophilus/iDaaS-Route" target="_blank">iDaaS Route - Data Distribution|This repository is specifically designed to test a subset of iDaaS Route components and capabilities.|
 |<a href="https://github.com/Project-Herophilus/iDAAS-DREAM" target="_blank">iDaaS DREAM Platform</a>|This repository is specifically designed for iDaaS DREAM components and capabilities.  Within this repository the is also the iDaaS Event Builder parsing, builder and generator code base.|
@@ -42,7 +44,7 @@ These are very specific repositories meant to showcase the capability with a lim
 ## Showcases
 There are several repositories provided to give end to end implementation guidance.
 
-| Capability | Repository  | Description  |
+| Capability | Repository | Description  |
 |---|---|---|
 |Receiving - HL7|<a href="https://github.com/RedHat-Healthcare/iDaaS-Connect/tree/master/iDaaS-Connect-HL7" target="_blank"> iDaaS Connect Clinical - HL7</a>|This iDaaS Connect accelerator specifically and ONLY supports the clinical integration standards of HL7.  From an integration connectivity and standards perspective it has HL7 MLLP Servers that support the following types from any vendor and any specific message version from 2.1 to 2.8: ADT (Admissions), ORM (Orders), ORU (Results), SCH (Schedules), PHA (Pharmacy), MFN (Master File Notifications), MDM (Medical Document Management) and VXU (Vaccinations).  This accelerator apart from handling the needed specific connectivity also does a minimal initial routing of data and has complete auditing integrated.
 |Receiving - FHIR|<a href="https://github.com/RedHat-Healthcare/iDaaS-Connect/tree/master/iDaaS-Connect-FHIR" target="_blank"> iDaaS Connect - FHIR</a>| This iDaaS Connect accelerator specifically and ONLY  supports ALL FHIR resources.  From an integration perspective it enables processing of over 75+ specific <a href="https://www.hl7.org/fhir/STU3/resourcelist.html" target="_blank">FHIR resources</a> that span base, clinical, financial (all), specialized (all but testing). Another benefit of this platform is that you <b>DO NOT require a FHIR server for this be leveraged</b>. However,  It has been tested to work with several FHIR servers: HAPI JPA Server, Microsoft Azure FHIR Server and IBM FHIR Server. This accelerator apart from handling the needed specific connectivity also does a minimal initial routing of data and has complete auditing integrated.|

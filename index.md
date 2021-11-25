@@ -15,15 +15,17 @@ community with a specific focus around build data driven assets. In order to hel
 define [specific design principles](docs/Design/DesignPrinciples.md) to ensure a very [scalable, extensible and reusable architecture](docs/Design/Architecture.md) with a focus on enabling 
 specific [capabilities](docs/Design/Capabilities.md). The intent of this organization is two fold: help drive 
 data driven open source capabilities into healthcare while demonstrating how healthcare can leverage open source to 
-solve industry problems!!! Why the name? Herophilus or spelled Herophilos, Herophilus was a Greek physician who is often 
-credited with being the founder of Anatomy. Assets currently available provide tools for configuration, testing, 
-data integration, synthetic data, and more - all developed and available to any organization. Project Herophilus has 
-made these assets available to anyone using fully open source software and all under Apache 2 licensing.
+solve industry problems. Why the name? Herophilus or spelled Herophilos, Herophilus was a Greek physician who is often 
+credited with being the founder of Anatomy. Since anatomy is the foundation for medicine and our focus is around enabling 
+healthcare we felt this was a very good name. 
 
 Project Herophilus intent is to help with various areas related to data challenges consistently seen across all areas of 
 healthcare for decades. We created a [fictious organization](docs/General/FictitiousOrg.md) for consistency. 
 The overall project is intended to deal with [integration standards support](docs/Design/IntegrationStandardsSupported.md)
 and non industry standard data challenges. At Project Herophilus we [leverage industry leading open source technologies](docs/Technical/Technologies.md) 
+to bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for configuration, testing,
+data integration, synthetic data, and more - all developed and available to any organization. Project Herophilus has
+made these assets available to anyone using fully open source software and all under Apache 2 licensing.
 
 - Intelligent DaaS (Data as a Service): Simplify and enable easier and more consistent access to data. It is intended to be 
 a comprehensive set of <b> design patterns / reference architectures / accelerators </b> to help anyone and supports hundreds
@@ -42,12 +44,14 @@ enabler to a mainstream application development enablement.
 In the background section we tried to giv and quick and simple definition for what we are doing. However, as you can imagine
 with all the capabilities enabled and supported are massive. After seeing all the types of
 <a href="https://camel.apache.org/components/3.13.x/index.html" target="_blank">connectivity natively supported</a>.
-Then, you can check out our [technical guides](docs/Technical/intro.md) to see how to build out various development 
+Then, you could look at our [features matrix](docs/General/Features.md) and feel free to check out our 
+[technical guides](docs/Technical/intro.md) to see how to build out various development 
 environments. Then, I would look at the [various repositories](docs/Design/PlatformComponents.md) and the specific 
 capabilities they enable. The final step we would recommend is looking through the [implementation guides](docs/ImplementationGuides/intro.md)
+to hopefully pull it all together and explain what neds to be implemented to match your need(s).
 
 # Where Are We Headed
-We have numerous [Technical Advisors](docs/General/TechnicalAdvisors.md) that help ensure we are addressing healthcare 
+We have numerous [technical advisors](docs/General/TechnicalAdvisors.md) that help ensure we are addressing healthcare 
 industry needs. Beyond our technical advisors we have received key sponsorship from Red Hat. Red Hat who is a leader in 
 enterprise open source and offers support, security, services and training. Red Hat is keeping its enterprise open source 
 leading approach and operates a subset of these assets “downstream.” While the “accelerators” are provided as is, Red 
@@ -58,7 +62,7 @@ different libraries and go through a seperate build and testing process; however
 
 Please feel free to go to our discussion  and/or issues areas in any of the specific repositories. We consider all 
 feedback as we are looking to improve our design pattern/reference architecture. Any communication to these areas 
-or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
+or the project owners influences our [technical roadmap](docs/Roadmap/index.md).
 
 ## General Industry Content
 
