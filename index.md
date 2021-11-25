@@ -21,8 +21,8 @@ data integration, synthetic data, and more - all developed and available to any 
 made these assets available to anyone using fully open source software and all under Apache 2 licensing.
 
 Project Herophilus intent is to help with various areas related to data challenges consistently seen across all areas of 
-healthcare for decades. We created a [Fictious Org.](docs/General/FictitiousOrg.md) for consistency. 
-The overall project is intended to deal with [Integration Standards Support](docs/Design/IntegrationStandardsSupported.md)
+healthcare for decades. We created a [fictious organization](docs/General/FictitiousOrg.md) for consistency. 
+The overall project is intended to deal with [integration standards support](docs/Design/IntegrationStandardsSupported.md)
 and non industry standard data challenges. At Project Herophilus we [leverage industry leading open source technologies](docs/Technical/Technologies.md) 
 
 - Intelligent DaaS (Data as a Service): Simplify and enable easier and more consistent access to data. It is intended to be 
@@ -39,17 +39,15 @@ while reducing risk and moving data integration towards <b>Data Innovation</b> a
 enabler to a mainstream application development enablement.
 
 # How to Get Started
-
-You can see the [various repositories](docs/Design/PlatformComponents.md) and the specific capabilities they enable.
-
-| Specific Topics and Guides |
-| -------------|
-|[Implementation Guides](docs/ImplementationGuides/intro.md)|
-|[Platform Component Specifics](docs/ImplementationGuides/PlatformComponents-Specific.md)|
-|[Technical Guides](docs/Technical/intro.md)|
+In the background section we tried to giv and quick and simple definition for what we are doing. However, as you can imagine
+with all the capabilities enabled and supported are massive. After seeing all the types of
+<a href="https://camel.apache.org/components/3.13.x/index.html" target="_blank">connectivity natively supported</a>.
+Then, you can check out our [technical guides](docs/Technical/intro.md) to see how to build out various development 
+environments. Then, I would look at the [various repositories](docs/Design/PlatformComponents.md) and the specific 
+capabilities they enable. The final step we would recommend is looking through the [implementation guides](docs/ImplementationGuides/intro.md)
 
 # Where Are We Headed
-We have numerous [Technical Advisors](docs/General/TechnicalLeadership.md) that help ensure we are addressing healthcare 
+We have numerous [Technical Advisors](docs/General/TechnicalAdvisors.md) that help ensure we are addressing healthcare 
 industry needs. Beyond our technical advisors we have received key sponsorship from Red Hat. Red Hat who is a leader in 
 enterprise open source and offers support, security, services and training. Red Hat is keeping its enterprise open source 
 leading approach and operates a subset of these assets “downstream.” While the “accelerators” are provided as is, Red 
@@ -71,4 +69,4 @@ or the project owners influences our [Technical Roadmap](docs/Roadmap/index.md).
 | <a href="https://github.com/Project-Herophilus/Project-Herophilus-Assets/tree/main/IndustryPublishedContent/FHIR/USCDI-Version-2-July-2021-Final.pdf" target="_blank">US CDI v2 Standard</a>|
 
 <br/>
-Happy coding!!!!
+<i>Happy coding!!!!</i>
