@@ -7,6 +7,7 @@ success criteria for any solution developed. We wanted to ensure that design pri
 capabilities we deliver.
 
 ## General Capabilities
+
 | Capability | Capability Area  | Description  |
 |---|---|---|
 | Integration General Data | Integration/Data | General data provided from industry sources to help resources test. |
