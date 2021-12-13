@@ -23,22 +23,28 @@ Project Herophilus intent is to help with various areas related to data challeng
 healthcare for decades. We created a [fictious organization](docs/General/FictitiousOrg.md) for consistency. 
 The overall project is intended to deal with [integration standards support](docs/Design/IntegrationStandardsSupported.md)
 and non industry standard data challenges. At Project Herophilus we [leverage industry leading open source technologies](docs/Technical/Technologies.md) 
-to bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for configuration, testing,
-data integration, synthetic data, and more - all developed and available to any organization. Project Herophilus has
-made these assets available to anyone using fully open source software and all under Apache 2 licensing.
+to bring the most widely adopted and used capabilities to bear. Assets currently available provide tools for configuration, 
+testing, data integration, synthetic data, and more - all developed and available to any organization. 
+
+Project Herophilus is constructed in a very modern cloud first/native manner ensuring that any component is designed and built for
+a specific purpose with scale and extensibility. The sole purpose of ALL the capabilities we have built for healthcare
+is to focus on enabling <b> Data as an Asset</b>. The major focus of our efforts is to reduce, and hopefully remove, the data barriers
+while reducing risk and moving data integration towards <b>Data Innovation</b> and enable it to move from a specific task based
+enabler to a mainstream application development enablement.has made these assets available to anyone using fully open 
+source software and all under Apache 2 licensing.
 
 - Intelligent DaaS (Data as a Service): Simplify and enable easier and more consistent access to data. It is intended to be 
 a comprehensive set of <b> design patterns / reference architectures / accelerators </b> to help anyone and supports hundreds
 of connectors from legacy to modern to industry standards to various public clouds. It includes the ability to connect, 
-route/distribute, build business process/decision management based apps and provides comprehensive audit capabilities.  
+route/distribute, build business process/decision management or complex event process based apps and provides comprehensive 
+audit capabilities.  
 - Event Builder: Comprehensive parsing and data building library for a comprehensive set of healthcare data standards.
 - Synthetic Data: The ability to leverage billions of data attributes in any number of ways to maximize business needs
 and benefits.
-The platform is constructed in a very modern cloud native manner ensuring that any component is designed and built for 
-a specific purpose with scale and extensibility. The sole purpose of ALL the capabilities we have built for healthcare 
-is to enable <b> Data as an Asset</b>. The major focus of our efforts is to reduce, and hopefully remove, the data barriers
-while reducing risk and moving data integration towards <b>Data Innovation</b> and enable it to move from a specific task based 
-enabler to a mainstream application development enablement.
+- Deidentification and Anonymization: Complete capabilities to enable data deidentification and anonymization capabilities for healthcare
+data. This leverages the Synthetic Data capabilities we have enabled for the industry. 
+- Data Simulators with Test Data: Simulators and test data to enable various means for implementation and scale testing 
+(depending on use cases). 
 
 # How to Get Started
 In the background section we tried to giv and quick and simple definition for what we are doing. However, as you can imagine

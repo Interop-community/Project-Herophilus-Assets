@@ -1,3 +1,5 @@
+Return to the <a href="https://project-herophilus.github.io/Project-Herophilus-Assets/" target="_blank">Main Page</a>
+
 # Common Questions
 
 With all this being said, <b>it was important for our code to be completely open and available with Apache 2 License!!</b>
