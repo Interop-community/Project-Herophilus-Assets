@@ -13,20 +13,6 @@ to continue focusing on all the ways we communicate with our partners.
 
 Please reference the [Platform Component Specifics](../Design/PlatformComponents.md) for details on each named implementation if needed. 
 
-## 2020
-[October - 2020](2020-10.md)<br/>
-[November - 2020](2020-11.md)<br/>
-[Decmeber - 2020](2020-12.md)<br/>
-
-## 2021
-[January - 2021](2021-01.md)<br/>
-[February - 2021](2021-02.md)<br/>
-[March - 2021](2021-03.md)<br/>
-[April - 2021](2021-04.md)<br/>
-[May - 2021](2021-05.md)<br/>
-[June - 2021](2021-06.md)<br/>
-[July - 2021](2021-07.md)<br/>
-[Auguat - 2021](2021-08.md)<br/>
-[September - 2021](2021-09.md)<br/>
-[October - 2021](2021-10.md)<br/>
-[November - 2021](2021-11.md)<br/>
+[2020](2020.md)<br/>
+[2021](2021.md)<br/>
+[2022](2022.md)<br/>
