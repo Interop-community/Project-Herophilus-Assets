@@ -46,6 +46,20 @@ data. This leverages the Synthetic Data capabilities we have enabled for the ind
 - Data Simulators with Test Data: Simulators and test data to enable various means for implementation and scale testing 
 (depending on use cases). 
 
+# Where Are We Headed
+We have numerous [technical advisors](docs/General/TechnicalAdvisors.md) that help ensure we are addressing healthcare
+industry needs. Beyond our technical advisors we have received key sponsorship from Red Hat. Red Hat who is a leader in
+enterprise open source and offers support, security, services and training. Red Hat is keeping its enterprise open source
+leading approach and operates a subset of these assets “downstream.” While the “accelerators” are provided as is, Red
+Hat customers can get secure and supported software the “accelerators” run atop for their production and other business
+needs. For more information please feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus
+are forked here and other branded efforts are named the same. Some of these cannot be forked as they leverage completely
+different libraries and go through a seperate build and testing process; however, the capabilities they deliver are the same.
+
+Please feel free to go to our discussion  and/or issues areas in any of the specific repositories. We consider all
+feedback as we are looking to improve our design pattern/reference architecture. Any communication to these areas
+or the project owners influences our [technical roadmap](docs/Roadmap/index.md).
+
 # How to Get Started
 In the background section we tried to giv and quick and simple definition for what we are doing. However, as you can imagine
 with all the capabilities enabled and supported are massive. After seeing all the types of
@@ -55,20 +69,6 @@ Then, you could look at our [features matrix](docs/General/Features.md) and feel
 environments. Then, I would look at the [various repositories](docs/Design/PlatformComponents.md) and the specific 
 capabilities they enable. The final step we would recommend is looking through the [implementation guides](docs/ImplementationGuides/intro.md)
 to hopefully pull it all together and explain what neds to be implemented to match your need(s).
-
-# Where Are We Headed
-We have numerous [technical advisors](docs/General/TechnicalAdvisors.md) that help ensure we are addressing healthcare 
-industry needs. Beyond our technical advisors we have received key sponsorship from Red Hat. Red Hat who is a leader in 
-enterprise open source and offers support, security, services and training. Red Hat is keeping its enterprise open source 
-leading approach and operates a subset of these assets “downstream.” While the “accelerators” are provided as is, Red 
-Hat customers can get secure and supported software the “accelerators” run atop for their production and other business 
-needs. For more information please feel to go to https://github.com/RedHat-Healthcare/. Several efforts from Project Herophilus 
-are forked here and other branded efforts are named the same. Some of these cannot be forked as they leverage completely 
-different libraries and go through a seperate build and testing process; however, the capabilities they deliver are the same.
-
-Please feel free to go to our discussion  and/or issues areas in any of the specific repositories. We consider all 
-feedback as we are looking to improve our design pattern/reference architecture. Any communication to these areas 
-or the project owners influences our [technical roadmap](docs/Roadmap/index.md).
 
 ## General Industry Content
 
